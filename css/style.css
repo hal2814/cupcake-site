@@ -1,4 +1,27 @@
 .flashy {
 color: red;
-font-style: italic; 
+font-style: italic;
+}
+
+.best{
+  font-family: fantasy;
+  color: white;
+}
+
+ul {
+  font-size: 22px;
+}
+
+body {
+  background-color: #4e5150;
+}
+
+img {
+  width: 600px;
+  height: auto;
+}
+
+.thumb {
+  width: 50px;
+  height: auto;
 }
